@@ -1,4 +1,5 @@
-### Welcome to Jeevan Shahs Page
+### Welcome to Jeevan's Page
+## You may also know me as Marvelman3284, bobrosshomie, Jedimaster3284, or Jeevster
 
 ```python
 print("Hello World!)
@@ -14,9 +15,9 @@ println("Even some lesser known langauges like kotlin!")
 ```
 
 # About Me:
-- I am currently 13 years of age
-- I am going into 8th grade
-- I am a life scout in Boy Scouts
+- I am currently some amount of years old
+- I am in school
+- I am in Boy Scouts
 - I love to code and read
 - I built my own computer in June of 2020
 - I have worked on many projects such as a [discord writer bot](https://github.com/cwarwicker/discord-Writer-Bot) and even [my own programming language](https://github.com/marvelman3284/basic-lang)
