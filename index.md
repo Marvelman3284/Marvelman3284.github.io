@@ -15,9 +15,9 @@ println("Even some lesser known langauges like kotlin!")
 ```
 
 # About Me:
-- I am currently some amount of years old
-- I am in school
-- I am in Boy Scouts
+- I am currently 13 years of age
+- I am in 8th grad
+- I am a Life Scout in Boy Scouts
 - I love to code and read
 - I built my own computer in June of 2020
 - I have worked on many projects such as a [discord writer bot](https://github.com/cwarwicker/discord-Writer-Bot) and even [my own programming language](https://github.com/marvelman3284/basic-lang)
