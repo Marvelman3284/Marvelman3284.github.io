@@ -46,7 +46,7 @@ I currently know:
    - This is one of my many discord bots that I have created. The leveling feature is the only feature in the bot but when it was being used it only needed a leveling system.
 - [A more fleshed out discord bot](https://github.com/marvelman3284/The-List-Bot):
    - This is what we called *The List Bot* it was made for a discord server that had a large focus around lists ergo the name. It is one of my better project with it being fleshed out and very functional.
-
+<!--
 # Contact:
 You can reach me many ways:
 1. Email
@@ -57,3 +57,4 @@ You can reach me many ways:
    - bobrosshomie (Friend code: 1103596847)
 4. In Real Life
    - If you know where to look you can find me
+-->
